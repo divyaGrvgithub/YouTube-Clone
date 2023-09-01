@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 
-.app{
+.app{ 
     background-color: var(--body_background);
 }
