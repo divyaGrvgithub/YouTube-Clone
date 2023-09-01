@@ -6,6 +6,19 @@ This project was bootstrapped with Create React App.
 Available Scripts
 In the project directory, you can run:
 
+Create-react-app
+npx create-react-app namaste-youtube
+
+means executing the react app
+install the tailwindcss
+npm i -D tailwindcss
+
+Need to initialize tailwind then configure file will created
+npx tailwindcss init added in config file : content: [ "./src/**/*.js" ],
+
+After add below 3 tailwind in your App.css file
+@tailwind base @tailwind components @tailwind utilities
+
 npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
