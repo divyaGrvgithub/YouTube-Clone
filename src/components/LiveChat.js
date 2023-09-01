@@ -41,7 +41,7 @@ const LiveChat = () => {
           // console.log("gooo", liveMessage);
           dispatch(
             addMessages({
-              name: "Rahul Chavan",
+              name: "Aman Maurya",
               message: liveMessage,
             })
           );

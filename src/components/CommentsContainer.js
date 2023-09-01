@@ -1,83 +1,13 @@
 import React from "react";
 import { FiThumbsUp, FiThumbsDown } from "react-icons/fi";
 
-// const arrComment = [
-//   {
-//     name: "Rahul chavan",
-//     text: "namaste rract project very good",
-//     reply: [
-//       {
-//         name: "Samat chavan",
-//         text: "namaste rract project very good",
-//         reply: [],
-//       },
-//       {
-//         name: "Kishor chavan",
-//         text: "namaste rract project very good",
-//         reply: [],
-//       },
-//       {
-//         name: "Harshdeep chavan",
-//         text: "namaste rract project very good",
-//         reply: [],
-//       },
-//     ],
-//   },
-//   {
-//     name: "Suresh chavan",
-//     text: "namaste rract project very good",
-//     reply: [
-//       {
-//         name: "Rahul chavan",
-//         text: "namaste rract project very good",
-//         reply: [
-//           {
-//             name: "Rahul chavan",
-//             text: "namaste rract project very good",
-//             reply: [
-//               {
-//                 name: "Rahul chavan",
-//                 text: "namaste rract project very good",
-//                 reply: [
-//                   {
-//                     name: "Rahul chavan",
-//                     text: "namaste rract project very good",
-//                     reply: [],
-//                   },
-//                 ],
-//               },
-//             ],
-//           },
-//         ],
-//       },
-//     ],
-//   },
-//   {
-//     name: "Nilesh chavan",
-//     text: "namaste rract project very good",
-//     reply: [
-//       {
-//         name: "Rahul chavan",
-//         text: "namaste rract project very good",
-//         reply: [
-//           {
-//             name: "Rahul chavan",
-//             text: "namaste rract project very good",
-//             reply: [],
-//           },
-//         ],
-//       },
-//     ],
-//   },
-// ];
-
 const actualComment = [
   {
     name:"@spillthebuzz",
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, Amazing content",
     reply:[
       {
-        name: "Samat chavan",
+        name: "Gaurav Goswami",
         text: "After the hype of linkedin i came here and believe me it was worth it all...the way of your presentation and the feeling that  instead of a teacher a friend is teaching,makes the videos more and more interesting.thanks a lot for sharing your precious knowledge with us and that too for free of cost.",
         reply: [],
       },
@@ -89,60 +19,60 @@ const actualComment = [
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, 🚀🚀🚀♥Amazing content",
     reply:[
       {
-        name: "Samat chavan",
+        name: "Gaurav Goswami",
         text: "hh my God Man!! 🔥 Heavy stuffs. I literally had goosebumps when you showed practical example of 📚 Thank you so much for these awesome contents. 🙏🏼",
         reply: [],
       },
       {
-        name: "Samat chavan",
+        name: "Gaurav Goswami",
         text: "namaste rract project very⭐🔴🚀♥ good",
         reply: [],
       },
     ]
   },
   {
-    name:"@rahulchavan",
+    name:"@adarshtiwari",
     text:"You kept the old cooking style alive, fan of the your cooking brother एकदा तरी येतलाय जेवुक😁😁",
     reply:  [
       {
-        name: "Samat chavan",
+        name: "Navneet Tiwari",
         text: "कोणी कोणी शेवट पर्यंत व्हिडिओ बघितला? Also please let us know how do you liked it..❤️🙂 See you until next weekend 😊🙏🌴",
         reply: [],
       },
       {
-        name: "Samat chavan",
+        name: "Navneet Tiwari",
         text: "You kept the old cooking style alive, fan of the your cooking brother एकदा तरी येतलाय जेवुक😁😁",
         reply: [],
       },
     ]
   },
   {
-    name:"@yogeshsabankar",
+    name:"@predumankumartiwari",
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, Amazing content",
     reply: [
       {
-        name: "Samat chavan",
+        name: "Jaanu Tiwari",
         text: "Amo suas receitas,e seu estilo de cozinhar tbm!!❤❤😊😊",
         reply: [],
       },
       {
-        name: "Kishor chavan",
+        name: "Jaanu Tiwari",
         text: "Pooja tu kharach all rounder aahes.Tuja recipe khup chan astat.👌👌❤️",
         reply: [],
       },
       {
-        name: "Harshdeep chavan",
+        name: "Jaanu Tiwari",
         text: "namaste rract project very good",
         reply: [],
       },
     ],
   },
   {
-    name:"@spillthebuzz",
+    name:"@meenutiwari",
     text:"Literally i was studying from 2 hour and feeling so ❤❤❤ tired then accidentally come on this playlist ...❤❤❤ Feeling like someone is singing for me and literally a different vibe comes ❤❤❤    ",
     reply:[
       {
-        name: "Samat chavan",
+        name: "Babita Goswami",
         text: "Your voice is totally heart touching ❤😊",
         reply: [],
       },
@@ -150,54 +80,54 @@ const actualComment = [
     
   },
   {
-    name:"@DebojyotiMandal",
+    name:"@cutoputo",
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, Amazing content",
     reply:[
       {
-        name: "Samat chavan",
+        name: "Divyamala Tiwari",
         text: "namaste rract project very good",
         reply: [],
       },
       {
-        name: "Samat chavan",
+        name: "Adarsh Tiwari",
         text: "Aaaaahhhhhhhh kya voice hai. Yaar 🔥🔥🔥...,...❤️❤️❤️so sweet", 
         reply: [],
       },
     ]
   },
   {
-    name:"@rahulchavan",
+    name:"@meenutiwari",
     text:"Magical voice 💫💫💫❣️",
     reply:  [
       {
-        name: "Samat chavan",
+        name: "Babita Goswami",
         text: "namaste rract project very good",
         reply: [],
       },
       {
-        name: "Samat chavan",
+        name: "Babita Goswami",
         text: "What a magical and fantastic voice🥳🤩🤩🥰🥰😍😍💯💯",
         reply: [],
       },
     ]
   },
   {
-    name:"@yogeshsabankar",
+    name:"@cutoputo",
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, Amazing content",
     reply: [
       {
-        name: "Samat chavan",
+        name: "Divyamala Tiwari",
         text: "What a magical Superb voice… I m Artist when I m working alwz listen ur songs … it’s gave me energy to do my work ✍",
         reply: [],
       },
       {
-        name: "Kishor chavan",
+        name: "Divyamala Tiwari",
         text: "What a magical and fantastic voice🥳🤩🤩🥰🥰😍😍💯💯",
         reply: [],
       },
       {
-        name: "Harshdeep chavan",
-        text: "namaste rract project very good",
+        name: "Prashant Tiwari",
+        text: "namaste react project very good",
         reply: [],
       },
     ],
