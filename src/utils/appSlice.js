@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const appSlice = createSlice({
     name:"app",
-    initialState:{
+    initialState:{ 
         isMenuOpen:true
     },
     reducers:{
