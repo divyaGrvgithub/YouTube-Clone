@@ -108,28 +108,28 @@ const Sidebar = () => {
           <Link to="/" className="flex">
             {" "}
             <FcManager className="mr-5 mt-1 text-xl" />
-            Akshat Saini
+            Divyamala Tiwari
           </Link>
         </li>
         <li className="py-2 flex hover:bg-gray-200 rounded-lg pl-2">
           <Link to="/" className="flex">
             {" "}
             <FaUser className="mr-5 mt-1 text-xl" />
-            Chetan Nada
+            Adarsh Tiwari
           </Link>
         </li>
         <li className="py-2 flex hover:bg-gray-200 rounded-lg pl-2">
           <Link to="/" className="flex">
             {" "}
             <FcPortraitMode className="mr-5 mt-1 text-xl" />
-            Rahul chavan
+            Navneet Tiwari
           </Link>
         </li>
         <li className="py-2 flex hover:bg-gray-200 rounded-lg pl-2">
           <Link to="/" className="flex">
             {" "}
             <FaCircleUser className="mr-5 mt-1 text-xl" />
-            Cubastic_rahul
+            Gaurav Goswami
           </Link>
         </li>
       </ul>
