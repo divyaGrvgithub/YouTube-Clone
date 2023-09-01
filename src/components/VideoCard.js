@@ -5,7 +5,7 @@ const VideoCard = ({ info }) => {
     <div className="p-2 w-72 mb-2">
       <img
         className="rounded-xl hover:opacity-60 transition-opacity duration-300"
-        src={info?.snippet?.thumbnails?.medium?.url}
+        src={info?.snippet?.thumbnails?.medium?.url} 
         alt="thumails"
       />
       <ul>
