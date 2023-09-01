@@ -8,7 +8,7 @@ import {
   AiOutlineSetting,
 } from "react-icons/ai";
 import {
-  MdOutlineSubscriptions,
+  MdOutlineSubscriptions,  
   MdOutlineVideoLibrary,
   MdOutlineWatchLater,
   MdOutlineLiveTv,
