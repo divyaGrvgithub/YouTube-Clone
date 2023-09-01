@@ -5,7 +5,7 @@ import { addMessages } from "../utils/chatSlice";
 import { generateRandomMessage, generateRandomName } from "../utils/Helper";
 import {BiSolidSend} from "react-icons/bi"
 import {FcBusinessman} from "react-icons/fc"
-
+ 
 const LiveChat = () => {
   const dispatch = useDispatch();
   const chatMessages = useSelector((store) => store.chat.messages);
