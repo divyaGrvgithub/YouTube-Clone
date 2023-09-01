@@ -4,7 +4,7 @@ const ChatMessages = ({name,message}) => {
 
 
   return (
-    <div className='flex m-2'>
+    <div className='flex m-2'> 
       <img
           className="h-6"
           src="https://cdn-icons-png.flaticon.com/512/149/149071.png"
