@@ -6,7 +6,7 @@ const ButtonList = () => {
     "All",
     "Music",
     "Javascript",
-    "Comedy",
+    "Comedy", 
     "Bollywood",
     "Live",
     "News",
