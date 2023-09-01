@@ -108,14 +108,14 @@ const Sidebar = () => {
           <Link to="/" className="flex">
             {" "}
             <FcManager className="mr-5 mt-1 text-xl" />
-            Divyamala Tiwari
+            Adarsh Tiwari
           </Link>
         </li>
         <li className="py-2 flex hover:bg-gray-200 rounded-lg pl-2">
           <Link to="/" className="flex">
             {" "}
             <FaUser className="mr-5 mt-1 text-xl" />
-            Adarsh Tiwari
+            Divyamala Tiwari
           </Link>
         </li>
         <li className="py-2 flex hover:bg-gray-200 rounded-lg pl-2">
