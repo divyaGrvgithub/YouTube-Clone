@@ -6,7 +6,7 @@ const ShimmerWatch = () => {
       <iframe
         className="bg-gray-200"
         width="1000"
-        height="500"
+        height="500"  
         src=""
         title="YouTube video player"
         // frameBorder="0" 
