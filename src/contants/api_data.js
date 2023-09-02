@@ -3,7 +3,7 @@ export const YOUTUBE_VIDEO_API = `https://youtube.googleapis.com/youtube/v3/vide
 
 export const YOUTUBE_VIDEO_BYID = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&key=${GOOGLE_API_KEY}&id=`;
 
-export const YOUTUBE_SEARCH_API = 
+export const YOUTUBE_SEARCH_API =    
   "https://corsproxy.io/?http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q=";
 
 // export const MY_SUBSCRIBERS = `https://youtube.googleapis.com/youtube/v3/subscriptions?part=snippet%2CcontentDetails&mine=true&key=${GOOGLE_API_KEY}`;
