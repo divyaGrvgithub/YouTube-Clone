@@ -9,7 +9,7 @@ import {
 } from "react-icons/ai";   
 import {
   MdOutlineSubscriptions,  
-  MdOutlineVideoLibrary,
+  MdOutlineVideoLibrary,  
   MdOutlineWatchLater,
   MdOutlineLiveTv,
   MdOutlineSportsSoccer,
