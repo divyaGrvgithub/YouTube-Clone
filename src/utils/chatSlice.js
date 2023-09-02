@@ -3,7 +3,7 @@ import { LIVE_CHAT_COUNT } from "../contants/api_data";
 
 const chatSlice = createSlice({
   name: "chat",
-  initialState: {
+  initialState: {  
     messages: [], 
   },
   reducers: {
