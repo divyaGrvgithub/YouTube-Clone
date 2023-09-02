@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { addMessages } from "../utils/chatSlice";
 import { generateRandomMessage, generateRandomName } from "../utils/Helper";
 import {BiSolidSend} from "react-icons/bi"
-import {FcBusinessman} from "react-icons/fc"
+import {FcBusinessman} from "react-icons/fc"  
    
 const LiveChat = () => {
   const dispatch = useDispatch();
