@@ -1,4 +1,4 @@
-# Youtube-clone [Live](https://you-tube-clone-5lu7ibkyh-divyagrvgithub.vercel.app/) - Best Youtube clone in ReactJS ⚛️
+# Youtube-clone [Live](https://you-tube-clone-5lu7ibkyh-divyagrvgithub.vercel.app/) 
 
 ![logo](https://cdn.vox-cdn.com/thumbor/b36noYT2bfb68KwmdP4U8bo16hM=/0x0:1848x1036/1400x788/filters:focal(688x471:689x472)/cdn.vox-cdn.com/uploads/chorus_asset/file/19353488/Screen_Shot_2019_11_06_at_5.04.08_PM.png)
 
