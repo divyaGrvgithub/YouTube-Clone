@@ -8,7 +8,7 @@ const nameList = [
   "Soar",
   "Soaring",
   "Power", 
-  "Falling",  
+  "Falling",     
   "Fall",
   "Jump",
   "Cliff",
