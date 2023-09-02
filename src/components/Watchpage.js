@@ -7,7 +7,7 @@ import { FiThumbsUp, FiThumbsDown } from "react-icons/fi";
 import { PiShareFat } from "react-icons/pi";
 import { GoDownload } from "react-icons/go"; 
 import { BsThreeDots } from "react-icons/bs";
-import { FaUserTie } from "react-icons/fa6";
+import { FaUserTie } from "react-icons/fa6";  
 import CommentsContainer from "./CommentsContainer";  
 import ShimmerWatch from "../ShimmerUI/ShimmerWatch";
 import LiveChat from "./LiveChat";
