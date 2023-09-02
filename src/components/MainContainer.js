@@ -6,7 +6,7 @@ const MainContainer = () => {
   return (
     <div className='w-5/6' > 
       <ButtonList />
-      <VideoContainer /> 
+      <VideoContainer />    
     </div>  
   )
 }
