@@ -6,7 +6,7 @@ import {
   AiOutlineLike,
   AiOutlineShopping,
   AiOutlineSetting,
-} from "react-icons/ai";
+} from "react-icons/ai";   
 import {
   MdOutlineSubscriptions,  
   MdOutlineVideoLibrary,
