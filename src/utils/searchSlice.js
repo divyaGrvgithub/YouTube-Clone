@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 const searchSline = createSlice({
     name :"search",
     initialState:{
-
+  
     },   
     reducers:{
         cacheResults: (state,action) =>{
