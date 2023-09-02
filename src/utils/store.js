@@ -5,7 +5,7 @@ import chatSlice from "./chatSlice";
 
 const store = configureStore({
   reducer: {
-    app: appSlice,
+    app: appSlice, 
     search:searchSlice,
     chat:chatSlice,
   },
