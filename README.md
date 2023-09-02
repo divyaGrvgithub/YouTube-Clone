@@ -6,7 +6,7 @@
 ![Screenshot of the Application](https://www.addictivetips.com/app/uploads/2018/12/screenshot-youtube.jpg)
 ![Screenshot of the Application](https://media.sproutsocial.com/uploads/2022/08/youtube-ad-example-fliteboard.png)
 
-## Table of content 📝
+## Table of content 📝   
 1. Features
 2. Tech Stack
 3. Getting Started
