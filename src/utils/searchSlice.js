@@ -4,7 +4,7 @@ const searchSline = createSlice({
     name :"search",
     initialState:{
 
-    }, 
+    },   
     reducers:{
         cacheResults: (state,action) =>{
             // state = {...action.payload,...state}
