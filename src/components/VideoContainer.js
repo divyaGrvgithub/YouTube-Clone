@@ -7,7 +7,7 @@ import ShimmerCard from "../ShimmerUI/ShimmerCard";
 const VideoContainer = () => {
   const [videosList, setVideosList] = useState([]); 
 
-  useEffect(() => {
+  useEffect(() => {  
     const getYoutubeVideo = async () => {
       const data = await fetch(YOUTUBE_VIDEO_API);
       const json = await data.json();
