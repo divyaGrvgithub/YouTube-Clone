@@ -7,7 +7,7 @@ import { YOUTUBE_SEARCH_API } from "../contants/api_data";
 import { cacheResults } from "../utils/searchSlice";   
 // import DarkMode from "../DarkMode/DarkMode";
 
-const Header = () => {
+const Header = () => {  
   const [searchQuery, setSearchQuery] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [showSuggestion, setShowSuggestion] = useState(false);
