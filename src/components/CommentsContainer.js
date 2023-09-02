@@ -2,7 +2,7 @@ import React from "react";
 import { FiThumbsUp, FiThumbsDown } from "react-icons/fi";
 
 const actualComment = [   
-  {
+  {    
     name:"@spillthebuzz",
     text:"when can we expect EP-04 ?? you made me fall in love with JavaScript, Amazing content",
     reply:[
