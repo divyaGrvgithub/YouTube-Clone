@@ -9,7 +9,7 @@ const appSlice = createSlice({
         togglemenu: (state)=>{
             state.isMenuOpen = !state.isMenuOpen;
         },
-        closeMenu: (state)=>{
+        closeMenu: (state)=>{   
             state.isMenuOpen = false;
         }
     }
