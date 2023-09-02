@@ -6,7 +6,7 @@ const VideoCard = ({ info }) => {
       <img
         className="rounded-xl hover:opacity-60 transition-opacity duration-300"
         src={info?.snippet?.thumbnails?.medium?.url}    
-        alt="thumails"
+        alt="thumails"  
       />
       <ul>
         <li className="font-bold py-2 text-gray text-ellipsis overflow-hidden">{info?.snippet?.title}</li>
