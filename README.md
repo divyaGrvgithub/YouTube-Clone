@@ -1,8 +1,10 @@
 # Youtube-clone [Live](https://you-tube-clone-5lu7ibkyh-divyagrvgithub.vercel.app/) - Best Youtube clone in ReactJS ⚛️
 
-![Screenshot of the Application](https://drive.google.com/file/d/1MFR2rhjBHJYMTmzBbnM5eseLoMb_KM2a/view?usp=sharing)
-![Screenshot of the Application](https://drive.google.com/file/d/1pVV4pwY06tSkAMhp7V7gkongX54IA2tj/view?usp=sharing)
-![Screenshot of the Application](https://drive.google.com/file/d/1OjvckWUqoOPuBzeQJaq4kvaaD6mJwzNF/view?usp=sharing)
+![logo](https://cdn.vox-cdn.com/thumbor/b36noYT2bfb68KwmdP4U8bo16hM=/0x0:1848x1036/1400x788/filters:focal(688x471:689x472)/cdn.vox-cdn.com/uploads/chorus_asset/file/19353488/Screen_Shot_2019_11_06_at_5.04.08_PM.png)
+
+![Screenshot of the Application](https://cdn.vox-cdn.com/thumbor/VXo0XCVNeysQWoO7uxX7xGKe1ok=/0x0:1494x840/1400x788/filters:focal(220x120:221x121)/cdn0.vox-cdn.com/uploads/chorus_asset/file/8449755/New_Dark_Theme.png)
+![Screenshot of the Application](https://www.addictivetips.com/app/uploads/2018/12/screenshot-youtube.jpg)
+![Screenshot of the Application](https://media.sproutsocial.com/uploads/2022/08/youtube-ad-example-fliteboard.png)
 
 ## Table of content 📝
 1. Features
